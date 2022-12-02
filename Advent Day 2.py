@@ -1,3 +1,4 @@
+# Part 1
 score = 8
 f = open("abc.txt", "r")
 for x in f:
