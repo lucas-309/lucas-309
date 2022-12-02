@@ -1,4 +1,4 @@
-
+# Part 1
 temp = 0 
 sum = 0
 
@@ -18,6 +18,7 @@ sum = 0
 sum1 = 0
 sum2 = 0
 
+# Part 2 
 f = open("ab.txt", "r")
 for x in f:
     if x != "\n":
